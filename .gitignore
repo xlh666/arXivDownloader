@@ -1,2 +1,3 @@
-./papers/*
+./papers/*.pdf
 ./page.html
+__pycache__/
